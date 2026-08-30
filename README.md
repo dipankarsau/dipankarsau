@@ -1,16 +1,40 @@
 <div align="center">
 
-<img src="./profile-header.gif" width="100%" alt="Dipankar Sau">
+<img 
+src="https://raw.githubusercontent.com/dipankarsau/dipankarsau/main/profile-header.gif"
+width="100%"
+alt="Dipankar Sau Animated Header">
 
 <br><br>
 
-<img src="./ds-logo.gif" width="330" alt="Dipankar Sau Logo">
+<img 
+src="https://raw.githubusercontent.com/dipankarsau/dipankarsau/main/ds-logo.gif"
+width="330"
+alt="Dipankar Sau Logo">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=700&color=7C3AED&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;MERN+Stack+Developer;Python+Developer;Data+Science+Learner;Building+Real-World+Projects" alt="Typing Animation">
+<img 
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=700&color=7C3AED&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;MERN+Stack+Developer;Python+Developer;Data+Science+Learner;Building+Real-World+Projects"
+alt="Typing Animation">
 
 <br><br>
+
+<a href="https://github.com/dipankarsau">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
 
 <a href="https://github.com/dipankarsau">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
