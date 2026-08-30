@@ -1,143 +1,171 @@
-# 👋 Hi, I'm Dipankar Sau
+<!-- ================= HEADER ================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=BCA+Student;Python+Developer;Data+Science+Enthusiast;Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=DIPANKAR%20SAU&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Data%20Science%20%7C%20Web%20Development&descAlignY=58&descSize=18"/>
+</p>
+
+<!-- ================= TYPING ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&width=750&lines=👋+Hello%2C+I'm+Dipankar+Sau;💻+BCA+Student;🐍+Python+Developer;📊+Data+Science+Enthusiast;🌐+Web+Developer;🚀+Always+Learning+%26+Building"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 **BCA Student @ Adamas University**
-💻 Passionate about **Python, Data Science & Web Development**
-📊 Interested in **Data Analysis & Machine Learning**
-🌱 Currently improving my **Python, SQL & Machine Learning** skills
-🚀 Building projects to gain real-world experience
+Hi! I'm **Dipankar Sau**, a BCA student at **Adamas University** with a strong interest in programming, data, and web technologies.
+
+I enjoy turning ideas into projects and continuously improving my technical skills.
+
+- 🎓 BCA Student
+- 🐍 Python Developer
+- 📊 Data Science Enthusiast
+- 🌐 Web Development Learner
+- 🤖 Interested in Machine Learning
+- 💡 Love solving programming problems
+- 🚀 Currently building real-world projects
 
 ---
 
-## 🧑‍💻 Tech Stack
+# 🧠 My Tech Stack
 
-### Languages
+### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,javascript"/>
 </p>
 
-### Web Development
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
 </p>
 
-### Data Science & Database
+### 📊 Data & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas"/>
 </p>
 
-### Tools
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🌾 Smart Farmer Decision System
-
-A technology-based agriculture project designed to help farmers make better decisions using data and machine learning.
-
-**Tech:** Python • Machine Learning • Data Analysis
-
----
-
-### 📊 COVID-19 Data Tracker
-
-A data analysis and visualization project for exploring COVID-19 datasets.
-
-**Tech:** Python • Pandas • NumPy • Matplotlib
-
----
-
-### 🌐 Web Development Projects
-
-Responsive websites and UI projects created using HTML, CSS, JavaScript and Bootstrap.
-
----
-
-## 📚 Currently Learning
+### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
-**Python → Data Analysis → SQL → Statistics → Machine Learning → Data Science**
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🚀 Featured Projects
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌾 Smart Farmer Decision System
+
+A smart agriculture project designed to help farmers make better decisions using data and machine learning.
+
+**Tech Stack**
+
+🐍 Python  
+🤖 Machine Learning  
+📊 Data Analysis
+
+</td>
+
+<td width="50%">
+
+## 📊 COVID-19 Data Tracker
+
+A data analysis and visualization project for exploring COVID-19 datasets and extracting useful insights.
+
+**Tech Stack**
+
+🐍 Python  
+🐼 Pandas  
+🔢 NumPy  
+📈 Matplotlib
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Web Development
+
+Responsive websites and UI projects created using modern web technologies.
+
+**Tech Stack**
+
+🌐 HTML  
+🎨 CSS  
+⚡ JavaScript  
+🅱️ Bootstrap
+
+</td>
+
+<td width="50%">
+
+## 🐍 Python Practice
+
+Collection of Python programs covering:
+
+- Loops
+- Functions
+- Lists
+- Tuples
+- Dictionaries
+- Algorithms
+- Problem Solving
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+# 📚 Currently Learning
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 
 </p>
 
----
-
-## 🎯 2026 Goals
-
-* 🐍 Master Python
-* 📊 Become strong in Data Analysis
-* 🤖 Learn Machine Learning
-* 💾 Improve SQL & Database skills
-* 🌐 Build real-world projects
-* 💼 Get an internship
-* ⭐ Build a strong GitHub portfolio
-* 🤝 Contribute to open-source projects
-
----
-
-## 💭 Developer Quote
-
-<p align="center">
-
-**"Code. Learn. Build. Repeat."** 🚀
-
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-
-⭐ **Thanks for visiting my profile!**
-
-</p>
+```text
+Python
+   │
+   ├── NumPy
+   ├── Pandas
+   └── Matplotlib
+        │
+        ▼
+   Data Analysis
+        │
+        ▼
+       SQL
+        │
+        ▼
+   Statistics
+        │
+        ▼
+ Machine Learning
+        │
+        ▼
+   Data Science 🚀
