@@ -159,23 +159,39 @@ ML Fundamentals → Models → Projects
 
 🚀 My Projects
 
+<div align="center">
+
+🌾 Farmer Project
+
+A web project focused on a farmer-oriented digital solution.
+
+<img src="https://img.shields.io/badge/Farmer_Project-4CAF50?style=for-the-badge&logo=leaflet&logoColor=white">
+
+🦠 COVID-19 Project
+
+A COVID-19 related web/data project built to practice real-world development and information presentation.
+
+<img src="https://img.shields.io/badge/COVID--19_Project-6C63FF?style=for-the-badge&logo=virustotal&logoColor=white">
+
 🌐 Pothpolio
 
-Personal web/portfolio project focused on frontend development.
+Personal web / portfolio project.
 
-Tech: HTML
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 🐍 Python Journey With Dipankar
 
-A collection of Python practice programs, concepts, and problem-solving exercises.
+Python learning, practice and problem-solving repository.
 
-Tech: Python
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 💻 Web Development Journey
 
-Learning and practicing web development through projects and exercises.
+Web-development learning projects and exercises.
 
-Tech: HTML
+<img src="https://img.shields.io/badge/Web_Development-1572B6?style=for-the-badge&logo=javascript&logoColor=white">
+
+</div>
 
 🎯 My Goals
 
