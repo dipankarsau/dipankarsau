@@ -1,37 +1,31 @@
 <!-- ========================================================= -->
 
-<!--                    ANIMATED HEADER                        -->
+<!--                  DIPANKAR SAU - GITHUB README             -->
 
 <!-- ========================================================= -->
 
+<!-- ========================= HEADER ======================== -->
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=DIPANKAR%20SAU&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PYTHON%20%E2%80%A2%20DATA%20SCIENCE%20%E2%80%A2%20WEB%20DEVELOPMENT&descAlignY=58&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=DIPANKAR%20SAU&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20WEB%20DEVELOPER%20%E2%80%A2%20MERN%20STACK%20%E2%80%A2%20PYTHON&descAlignY=58&descSize=18"
     width="100%"
     alt="Dipankar Sau"
   />
 </p>
 
-<!-- ========================================================= -->
-
-<!--                    TYPING ANIMATION                      -->
-
-<!-- ========================================================= -->
+<!-- ====================== TYPING ANIMATION ================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Dipankar+Sau+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Data+Science+Enthusiast+%F0%9F%93%8A;Web+Developer+%F0%9F%8C%90;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Real+Projects+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Dipankar+Sau+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;Python+Developer+%F0%9F%90%8D;Data+Science+Enthusiast+%F0%9F%93%8A;Building+Modern+%26+Scalable+Applications+%E2%9C%A8"
     alt="Typing Animation"
   />
 </p>
 
 <br>
 
-<!-- ========================================================= -->
-
-<!--                    PROFILE BADGES                         -->
-
-<!-- ========================================================= -->
+<!-- ========================= BADGES ======================= -->
 
 <p align="center">
 
@@ -54,204 +48,349 @@
 
 <br>
 
-<!-- ========================================================= -->
+<!-- ======================== INTRO ========================== -->
 
-<!--                    INTRODUCTION                           -->
-
-<!-- ========================================================= -->
-
-<h1 align="center">👨‍💻 Dipankar Sau</h1>
+<h1 align="center">
+  👨‍💻 Dipankar Sau
+</h1>
 
 <p align="center">
-  <strong>BCA Student • Python Developer • Data Science Enthusiast</strong>
+  <strong>
+    Full Stack Web Developer • MERN Stack • Python • Data Science
+  </strong>
 </p>
 
 <p align="center">
   <em>
-    Passionate about coding, data, web technologies, and building
-    practical solutions that solve real-world problems.
+    Building modern, responsive and scalable applications while
+    continuously exploring new technologies.
   </em>
 </p>
 
-<br>
+---
 
-<!-- ========================================================= -->
+<!-- ======================== ABOUT ME ======================= -->
 
-<!--                    ABOUT ME                               -->
-
-<!-- ========================================================= -->
-
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="55%">
+
+<td width="60%">
 
 ### Hello! 👋
 
-I'm **Dipankar Sau**, a BCA student at **Adamas University**, passionate about technology and software development.
+I'm **Dipankar Sau**, a BCA student at **Adamas University** with a strong interest in software development and modern web technologies.
 
-My primary interests include **Python Development, Data Science, Web Development, Data Analysis, and Machine Learning**.
+My primary focus is **Full Stack Web Development**, especially the **MERN Stack**, while also developing my skills in **Python, Data Science and Machine Learning**.
 
-I enjoy learning by building projects and solving programming problems.
+I enjoy building projects, solving programming problems and learning technologies that help me create real-world applications.
 
-* 🎓 BCA Student
-* 🐍 Python Developer
-* 📊 Data Science Enthusiast
-* 🌐 Web Developer
-* 🤖 Machine Learning Learner
-* 🧠 Problem Solver
-* 🚀 Project Builder
+### 🔭 Currently Exploring
+
+* ⚛️ React.js
+* 🟢 Node.js
+* 🚂 Express.js
+* 🍃 MongoDB
+* 🟨 JavaScript
+* 🐍 Python
+* 📊 Data Science
+* 🤖 Machine Learning
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center">
 
 <img
-src="https://skillicons.dev/icons?i=python"
-width="130"
-alt="Python"
+src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python"
+width="300"
+alt="Technology Stack"
 />
 
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=350&lines=Learn+%F0%9F%93%9A;Build+%F0%9F%9A%80;Solve+%F0%9F%A7%A0;Improve+%F0%9F%94%A5;Repeat+%E2%9C%A8"
-alt="Learning Animation"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=330&lines=Code+%F0%9F%92%BB;Create+%F0%9F%9A%80;Learn+%F0%9F%93%9A;Build+%F0%9F%94%A5;Improve+%E2%9C%A8"
+alt="Developer Animation"
 />
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-<!-- ========================================================= -->
+<!-- ====================== DEVELOPER PROFILE =============== -->
 
-<!--                    DEVELOPER PROFILE                      -->
+## 🚀 Developer Profile
 
-<!-- ========================================================= -->
+```javascript
+const dipankar = {
+    name: "Dipankar Sau",
+    education: "BCA - Adamas University",
+    graduation: 2027,
 
-## 🐍 Developer Profile
+    role: "Aspiring Full Stack Developer",
 
-```python
-class DipankarSau:
+    primaryFocus: [
+        "Web Development",
+        "MERN Stack",
+        "Full Stack Applications"
+    ],
 
-    name = "Dipankar Sau"
-    education = "BCA - Adamas University"
-    graduation = 2027
+    technologies: {
+        frontend: [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React.js",
+            "Bootstrap"
+        ],
 
-    roles = [
-        "Python Developer",
-        "Web Developer",
-        "Data Science Enthusiast"
-    ]
+        backend: [
+            "Node.js",
+            "Express.js"
+        ],
 
-    skills = [
-        "Python",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "SQL",
-        "Pandas",
-        "NumPy"
-    ]
+        database: [
+            "MongoDB",
+            "MySQL"
+        ],
 
-    interests = [
-        "Data Science",
-        "Data Analysis",
-        "Machine Learning",
-        "Web Development"
-    ]
+        programming: [
+            "JavaScript",
+            "Python",
+            "C",
+            "Java"
+        ],
 
-    currently_learning = [
-        "Advanced Python",
-        "SQL",
-        "Data Science",
-        "Machine Learning"
-    ]
+        data: [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "Matplotlib"
+        ],
 
-    philosophy = "Learn → Build → Improve 🚀"
+        tools: [
+            "Git",
+            "GitHub",
+            "VS Code",
+            "Jupyter Notebook"
+        ]
+    },
+
+    currentlyLearning: [
+        "MERN Stack",
+        "Advanced JavaScript",
+        "React.js",
+        "Node.js",
+        "Data Science"
+    ],
+
+    goal: "Build scalable and meaningful real-world applications",
+
+    mindset: "Learn → Build → Deploy → Improve 🚀"
+};
 ```
 
 ---
 
-<!-- ========================================================= -->
+<!-- ======================= TECH STACK ====================== -->
 
-<!--                    TECH STACK                             -->
+# 🛠️ Technology Stack
 
-<!-- ========================================================= -->
-
-## ⚡ Tech Stack
-
-### 💻 Programming
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,javascript" alt="Programming Languages" />
-</p>
-
-### 🌐 Web Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" alt="Web Technologies" />
-</p>
-
-### 📊 Data Science
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib" alt="Data Science Technologies" />
-</p>
-
-### 🗄️ Database & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,jupyter" alt="Database and Tools" />
-</p>
-
----
-
-<!-- ========================================================= -->
-
-<!--                    CURRENTLY LEARNING                     -->
-
-<!-- ========================================================= -->
-
-## 📚 Currently Learning
+## 🌐 Frontend Development
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Learning-FF6F00?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" alt="Frontend Technologies" />
 
 </p>
 
 ---
 
-<!-- ========================================================= -->
+## ⚙️ Backend Development
 
-<!--                    FEATURED PROJECTS                       -->
+<p align="center">
 
-<!-- ========================================================= -->
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies" />
 
-## 🚀 Featured Projects
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Technologies" />
+
+</p>
+
+---
+
+## 🐍 Programming & Data
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,java" alt="Programming Languages" />
+
+</p>
+
+<p align="center">
+
+<img
+src="https://skillicons.dev/icons?i=numpy,pandas"
+alt="Python Libraries"
+/>
+
+</p>
+
+---
+
+## 🔧 Tools & Development Environment
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Development Tools" />
+
+</p>
+
+---
+
+<!-- ======================= MERN STACK ======================= -->
+
+# ⚡ MERN Stack
+
+<p align="center">
+
+<img
+src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"
+width="350"
+alt="MERN Stack"
+/>
+
+</p>
+
+<p align="center">
+
+<strong>
+MongoDB → Express.js → React.js → Node.js
+</strong>
+
+</p>
+
+<p align="center">
+Building full-stack applications with modern JavaScript technologies.
+</p>
+
+---
+
+<!-- ======================= SKILLS ========================== -->
+
+# 💻 Development Skills
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 🌾 Smart Farmer Decision System
+### 🎨 Frontend
 
-An intelligent technology-based solution designed to assist farmers with better agricultural decision-making.
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Bootstrap
+* Responsive Design
+* UI Development
 
-**Focus:**
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* Server-side Development
+* API Integration
+* Authentication Concepts
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🗄️ Database
+
+* MongoDB
+* MySQL
+* Database Design
+* CRUD Operations
+* Data Management
+
+</td>
+
+<td width="50%">
+
+### 🐍 Python & Data
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Data Analysis
+* Machine Learning Basics
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ======================= CURRENT FOCUS =================== -->
+
+# 🎯 Current Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MERN%20Stack-FF6F00?style=for-the-badge&logo=react&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+</p>
+
+---
+
+<!-- ======================= PROJECTS ======================== -->
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌾 Smart Farmer Decision System
+
+An intelligent decision-support project designed to help farmers make better agricultural decisions using technology and data.
+
+**Focus**
 
 * Data Analysis
 * Smart Recommendations
@@ -262,11 +401,11 @@ An intelligent technology-based solution designed to assist farmers with better 
 
 <td width="50%">
 
-### 📊 COVID-19 Data Tracker
+## 📊 COVID-19 Data Tracker
 
-A data analysis and visualization project designed to explore COVID-19 datasets and present meaningful insights.
+A data analysis and visualization project for exploring COVID-19 datasets and presenting meaningful insights.
 
-**Technologies:**
+**Technologies**
 
 * Python
 * Pandas
@@ -281,59 +420,101 @@ A data analysis and visualization project designed to explore COVID-19 datasets 
 
 <td width="50%">
 
-### 🌐 Web Development Projects
+## 🌐 Web Development Projects
 
-A collection of responsive websites built using modern frontend technologies.
+Responsive websites and frontend projects developed using modern web technologies.
 
-**Technologies:**
+**Technologies**
 
 * HTML
 * CSS
 * JavaScript
 * Bootstrap
+* React
 
 </td>
 
 <td width="50%">
 
-### 🐍 Python Programming
+## ⚡ MERN Applications
 
-A collection of Python programs focused on strengthening programming fundamentals and problem-solving skills.
+Full-stack applications developed while learning and practicing the MERN ecosystem.
 
-**Topics:**
+**Technologies**
 
-* Loops
-* Functions
-* Lists
-* Tuples
-* Dictionaries
-* Algorithms
+* MongoDB
+* Express.js
+* React.js
+* Node.js
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-<!-- ========================================================= -->
+<!-- ======================= LEARNING ROADMAP ================= -->
 
-<!--                    GITHUB STATISTICS                      -->
+# 📚 Learning Roadmap
 
-<!-- ========================================================= -->
+```text
+HTML / CSS
+    │
+    ▼
+JavaScript
+    │
+    ▼
+React.js
+    │
+    ▼
+Node.js + Express.js
+    │
+    ▼
+MongoDB
+    │
+    ▼
+REST APIs
+    │
+    ▼
+Authentication
+    │
+    ▼
+Full Stack MERN Applications
+    │
+    ▼
+Deployment & Production 🚀
+```
 
-## 📊 GitHub Statistics
+### Alongside MERN
+
+```text
+Python
+  │
+  ├── NumPy
+  ├── Pandas
+  ├── Matplotlib
+  ├── Data Analysis
+  └── Machine Learning
+```
+
+---
+
+<!-- ======================= GITHUB STATS ==================== -->
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"
 width="49%"
-alt="GitHub Stats"
+alt="GitHub Statistics"
 />
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12"
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"
 width="49%"
 alt="GitHub Streak"
 />
@@ -345,7 +526,7 @@ alt="GitHub Streak"
 <p align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
 width="45%"
 alt="Top Languages"
 />
@@ -354,33 +535,25 @@ alt="Top Languages"
 
 ---
 
-<!-- ========================================================= -->
+<!-- ======================= ACTIVITY ======================== -->
 
-<!--                    CONTRIBUTION GRAPH                     -->
-
-<!-- ========================================================= -->
-
-## 📈 Contribution Activity
+# 📈 GitHub Activity
 
 <p align="center">
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"
 width="95%"
-alt="Contribution Graph"
+alt="GitHub Activity Graph"
 />
 
 </p>
 
 ---
 
-<!-- ========================================================= -->
+<!-- ======================= TROPHIES ======================== -->
 
-<!--                    GITHUB TROPHIES                        -->
-
-<!-- ========================================================= -->
-
-## 🏆 GitHub Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
 
@@ -394,57 +567,65 @@ alt="GitHub Trophies"
 
 ---
 
-<!-- ========================================================= -->
+<!-- ======================= CONTRIBUTION ==================== -->
 
-<!--                    CONTRIBUTION SNAKE                     -->
-
-<!-- ========================================================= -->
-
-## 🐍 Contribution Snake
+# 🐍 Contribution Graph
 
 <p align="center">
 
 <img
 src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
+alt="Contribution Snake"
 />
 
 </p>
 
 ---
 
-<!-- ========================================================= -->
+<!-- ======================= GOALS =========================== -->
 
-<!--                    GOALS                                  -->
+# 🎯 2026 Goals
 
-<!-- ========================================================= -->
+<table>
+<tr>
 
-## 🎯 My Goals
+<td>
 
-| Goal                           | Status         |
-| ------------------------------ | -------------- |
-| 🐍 Master Python               | 🔄 Learning    |
-| 📊 Learn Data Science          | 🔄 Learning    |
-| 🤖 Learn Machine Learning      | 🔄 Learning    |
-| 🌐 Build Professional Websites | 🔄 Building    |
-| 🧠 Improve DSA                 | 🔄 Practicing  |
-| 🚀 Build Real-World Projects   | 🔄 In Progress |
-| 🌍 Contribute to Open Source   | 🎯 Goal        |
+### 💻 Development
+
+* [ ] Master MERN Stack
+* [ ] Build full-stack applications
+* [ ] Build REST APIs
+* [ ] Learn authentication
+* [ ] Deploy production projects
+
+</td>
+
+<td>
+
+### 📊 Data & Programming
+
+* [ ] Strengthen Python
+* [ ] Improve SQL
+* [ ] Learn Data Science
+* [ ] Explore Machine Learning
+* [ ] Improve DSA
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<!-- ========================================================= -->
+<!-- ======================= MINDSET ========================= -->
 
-<!--                    DEVELOPER MINDSET                      -->
-
-<!-- ========================================================= -->
-
-## 💡 Developer Mindset
+# 💡 Developer Mindset
 
 <p align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Code+with+Purpose+%F0%9F%92%BB;Learn+Every+Day+%F0%9F%93%9A;Build+Real+Projects+%F0%9F%9A%80;Solve+Real+Problems+%F0%9F%A7%A0;Never+Stop+Improving+%E2%9C%A8"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Learn+New+Technologies+%F0%9F%93%9A;Build+Real+World+Projects+%F0%9F%9A%80;Write+Clean+%26+Maintainable+Code+%F0%9F%92%BB;Solve+Problems+%F0%9F%A7%A0;Keep+Growing+%E2%9C%A8"
 alt="Developer Mindset"
 />
 
@@ -452,13 +633,9 @@ alt="Developer Mindset"
 
 ---
 
-<!-- ========================================================= -->
+<!-- ======================= CONNECT ========================= -->
 
-<!--                    CONNECT                                -->
-
-<!-- ========================================================= -->
-
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
 
@@ -479,7 +656,7 @@ alt="Developer Mindset"
 <a href="mailto:YOUR_EMAIL@gmail.com">
   <img
     src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
+    alt="Gmail"
   />
 </a>
 
@@ -487,16 +664,12 @@ alt="Developer Mindset"
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                    FOOTER                                 -->
-
-<!-- ========================================================= -->
+<!-- ======================= FOOTER ========================== -->
 
 <p align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+amazing+together+%F0%9F%9A%80;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+%E2%9C%A8"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+amazing+together+%F0%9F%9A%80;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+%E2%9C%A8"
 alt="Footer Animation"
 />
 
@@ -507,9 +680,9 @@ alt="Footer Animation"
 <p align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=fadeIn"
 width="100%"
-alt="Footer"
+alt="Animated Footer"
 />
 
 </p>
@@ -519,5 +692,11 @@ alt="Footer"
 </p>
 
 <p align="center">
-  <sub>Built with ❤️, ☕ and Code</sub>
+  <sub>Designed & Built with ❤️ and Code</sub>
 </p>
+
+<!-- ========================================================= -->
+
+<!--                         END                               -->
+
+<!-- ========================================================= -->
