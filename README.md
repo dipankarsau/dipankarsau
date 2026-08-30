@@ -1,234 +1,122 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-<img 
-src="https://raw.githubusercontent.com/dipankarsau/dipankarsau/main/profile-header.gif"
-width="100%"
-alt="Dipankar Sau Animated Header">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=DIPANKAR%20SAU&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20Data%20Science&descAlignY=62&animation=twinkling" width="100%"/>
 
-<br><br>
+<br>
 
-<img 
-src="https://raw.githubusercontent.com/dipankarsau/dipankarsau/main/ds-logo.gif"
-width="330"
-alt="Dipankar Sau Logo">
-
-<br><br>
-
-<img 
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=700&color=7C3AED&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;MERN+Stack+Developer;Python+Developer;Data+Science+Learner;Building+Real-World+Projects"
-alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;MERN+Stack+Developer;Python+Developer;Data+Science+Learner;Building+Real-World+Applications" alt="Typing Animation"/>
 
 <br><br>
 
 <a href="https://github.com/dipankarsau">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<a href="https://github.com/dipankarsau">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+# 👋 About Me
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+I'm **Dipankar Sau**, a developer passionate about building modern web applications and continuously expanding my knowledge in software development.
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+My primary focus is **Full-Stack Development**, while I am also developing my skills in **Python, Data Science and Machine Learning**.
 
-</div>
+I believe in learning through practical work — **build, experiment, solve problems, and improve continuously.**
 
----
+### Currently Focused On
 
-# 👨‍💻 About Me
-
-Hi, I'm **Dipankar Sau** 👋
-
-I'm a developer passionate about **Full-Stack Development, Python, and Data Science**.
-
-I enjoy learning through practical projects and building applications that solve real-world problems.
-
-### 🚀 What I'm Currently Doing
-
-- 🌐 Learning **Full-Stack Development**
-- ⚛️ Working with the **MERN Stack**
-- 🐍 Learning **Python**
-- 📊 Exploring **Data Science**
-- 🤖 Exploring **Machine Learning**
-- 💻 Building real-world projects
-- 🧠 Improving my programming & problem-solving skills
+- Full-Stack Web Development
+- MERN Stack
+- Python Programming
+- Data Science
+- Machine Learning fundamentals
+- REST API development
+- Database design
+- Real-world projects
 
 ---
 
-# 🛠️ Tech Stack
-
-## 🌐 Frontend
+# 💻 Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="55">
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="55"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+### Backend & Database
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-
-</div>
-
----
-
-## ⚙️ Backend & Database
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="55">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="55"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+### Programming & Data
 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-
-</div>
-
----
-
-## 🐍 Python & Data Science
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python" height="55">
+<img src="https://skillicons.dev/icons?i=python,java" height="55"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<br><br>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+### Tools
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="55"/>
 
 </div>
 
 ---
 
-## 🔧 Tools
+# 📚 Learning Journey
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="55">
+| Stage | Focus | Technologies |
+|:---:|---|---|
+| 01 | 🌐 Web Fundamentals | HTML • CSS • JavaScript |
+| 02 | ⚛️ Frontend | React • Tailwind CSS |
+| 03 | ⚙️ Backend | Node.js • Express.js |
+| 04 | 🗄️ Database | MongoDB |
+| 05 | 🐍 Programming | Python • Java |
+| 06 | 📊 Data Science | NumPy • Pandas • Matplotlib |
+| 07 | 🤖 Machine Learning | Scikit-learn |
 
 </div>
 
 ---
 
-# 📚 My Learning Journey
-
-<div align="center">
-
-### 01 — 🌐 Web Fundamentals
-
-<img src="https://skillicons.dev/icons?i=html,css,js" height="50">
-
-**HTML → CSS → JavaScript → Responsive Web Design**
-
----
-
-### 02 — ⚛️ Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,tailwind" height="50">
-
-**React → Components → State → Hooks → APIs → Modern UI**
-
----
-
-### 03 — ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="50">
-
-**Node.js → Express.js → REST APIs → Authentication**
-
----
-
-### 04 — 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb" height="50">
-
-**MongoDB → CRUD → Data Modeling → Backend Integration**
-
----
-
-### 05 — 🐍 Python
-
-<img src="https://skillicons.dev/icons?i=python" height="50">
-
-**Python → OOP → Problem Solving → Automation**
-
----
-
-### 06 — 📊 Data Science
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-
-**Data Analysis → Visualization → Statistics**
-
----
-
-### 07 — 🤖 Machine Learning
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-
-**Machine Learning Fundamentals → Models → Projects**
-
-</div>
-
----
-
-# 🚀 My Projects
+# 🚀 Featured Projects
 
 ## 🌾 Farmer Project
 
-A farmer-focused project created to practice web development and build a practical real-world solution.
+A practical web project created around a **farmer-focused use case**, developed as part of my journey in building real-world applications.
 
-**Technology**
-
-<img src="https://skillicons.dev/icons?i=html,css,js" height="40">
+**Focus:** Web Development • User Interface • Practical Problem Solving
 
 ---
 
 ## 🦠 COVID-19 Project
 
-A COVID-19 related project created to practice development, data presentation, and real-world problem solving.
+A project developed around **COVID-19 information/data**, helping me practice presenting real-world information through a web application.
 
-**Technology**
-
-<img src="https://skillicons.dev/icons?i=html,css,js" height="40">
+**Focus:** Web Development • Data Presentation • Real-World Problem Solving
 
 ---
 
@@ -236,38 +124,29 @@ A COVID-19 related project created to practice development, data presentation, a
 
 Personal portfolio/web development project.
 
-**Repository:**  
-https://github.com/dipankarsau/pothpolio
-
 **Technology**
 
-<img src="https://skillicons.dev/icons?i=html" height="40">
+<img src="https://skillicons.dev/icons?i=html" height="35"/>
 
 ---
 
 ## 🐍 Python Journey With Dipankar
 
-Python learning, practice, programming concepts, and problem-solving repository.
-
-**Repository:**  
-https://github.com/dipankarsau/Python_Journey_With_Dipankar
+A learning repository containing Python practice, programming concepts and problem-solving exercises.
 
 **Technology**
 
-<img src="https://skillicons.dev/icons?i=python" height="40">
+<img src="https://skillicons.dev/icons?i=python" height="35"/>
 
 ---
 
 ## 💻 Web Development Journey
 
-A collection of web-development learning projects and experiments.
-
-**Repository:**  
-https://github.com/dipankarsau/WEB_DEVLOPMRNT_JOURNY
+A collection of my web-development learning and practice projects.
 
 **Technology**
 
-<img src="https://skillicons.dev/icons?i=html,css,js" height="40">
+<img src="https://skillicons.dev/icons?i=html,css,js" height="35"/>
 
 ---
 
@@ -275,83 +154,78 @@ https://github.com/dipankarsau/WEB_DEVLOPMRNT_JOURNY
 
 <div align="center">
 
-### 🚀 2026 — BUILD • LEARN • GROW
+### 2026
 
 </div>
 
-- 🎯 Become a strong **Full-Stack Developer**
-- ⚛️ Master **React.js**
-- ⚙️ Master **Node.js & Express.js**
-- 🗄️ Become confident with **MongoDB**
-- 🐍 Become strong in **Python**
-- 📊 Learn **Data Science**
-- 🤖 Build **Machine Learning Projects**
-- 💼 Build production-quality applications
-- 🌍 Start contributing to **Open Source**
-- ⭐ Build a strong professional **GitHub Portfolio**
+- Build strong **Full-Stack Development** skills
+- Become confident with the complete **MERN Stack**
+- Build production-quality React applications
+- Develop strong **Node.js & Express.js** skills
+- Become proficient in **MongoDB**
+- Strengthen **Python**
+- Learn **Data Science** systematically
+- Explore **Machine Learning**
+- Build meaningful real-world projects
+- Start contributing to **Open Source**
+- Build a strong professional GitHub portfolio
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dipankarsau&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&theme=tokyonight" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=dipankarsau&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankarsau&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankarsau&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=dipankarsau&hide_border=true&theme=tokyonight" height="180">
+<img src="https://streak-stats.demolab.com?user=dipankarsau&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipankarsau&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-# 🧠 Developer Mindset
+# 🧠 Developer Philosophy
 
 <div align="center">
 
-### "Learn → Build → Fail → Improve → Repeat"
+### BUILD → LEARN → SOLVE → IMPROVE
 
 <br>
 
-I believe consistent learning and practical projects are the best way to become a better developer.
+**"Every project is an opportunity to learn something new."**
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/dipankarsau">
-
-<img src="https://img.shields.io/badge/GitHub-dipankarsau-181717?style=for-the-badge&logo=github&logoColor=white">
-
+<img src="https://img.shields.io/badge/GitHub-dipankarsau-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@example.com">
-
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -360,10 +234,8 @@ I believe consistent learning and practical projects are the best way to become 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" width="100%"/>
 
-### ⭐ Thanks for visiting my profile!
-
-**© 2026 Dipankar Sau**
+**Thanks for visiting my profile! ⭐**
 
 </div>
