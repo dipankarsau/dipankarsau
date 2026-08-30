@@ -1,210 +1,165 @@
 <div align="center">
 
-<img src="./assets/dipankar-logo.svg" width="800" alt="Dipankar Sau">
+<img src="./assets/dipankar-logo.svg" width="800" alt="Dipankar Sau Logo">
 
-<img src="./assets/hero.svg" width="100%" alt="Animated developer hero">
+<br/>
+
+<img src="./assets/animated-header.svg" width="100%" alt="Animated developer header">
 
 <br/>
 
 <a href="https://github.com/dipankarsau">
 <img src="https://komarev.com/ghpvc/?username=dipankarsau&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
-&nbsp;
-<a href="https://github.com/dipankarsau?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories"/>
-</a>
 
 </div>
 
-About
+👋 Hello, I'm Dipankar
 
-I'm Dipankar Sau, a BCA student at Adamas University and an aspiring Full Stack Developer.
+I'm a BCA student at Adamas University and an aspiring Full Stack Developer.
 
-My primary focus is modern web development with the MERN stack. Alongside web development, I'm building a strong foundation in Python, Data Science, and Machine Learning.
+Right now, I'm focused on learning Full Stack Development with the MERN stack and building my skills in Python. After strengthening these foundations, my next learning goal is Data Science and Machine Learning.
 
-I enjoy building projects, solving programming problems, and learning technologies that can turn ideas into useful applications.
+I enjoy building projects, solving programming problems, and learning technologies by turning ideas into practical applications.
 
-What I Work With
+🧭 My Learning Journey
 
 <div align="center">
 
-Frontend
+FULL STACK DEVELOPMENT
 
-Backend
+HTML → CSS → JavaScript → React → Node.js → Express.js → MongoDB
 
-Database
+<br/>
 
-Programming & Data
+PYTHON
 
-HTML5
+Python → NumPy → Pandas → Matplotlib
 
-Node.js
+<br/>
 
-MongoDB
+NEXT
 
-Python
+Data Science → Machine Learning
 
-CSS3
+</div>
 
-Express.js
+💻 What I'm Learning
 
-MySQL
+Full Stack Development
 
-Pandas
+HTML5 & CSS3
 
 JavaScript
 
+React.js
+
+Node.js
+
+Express.js
+
+MongoDB
+
 REST APIs
 
-Database Design
+Responsive Web Development
+
+Python & Data
+
+Python
 
 NumPy
 
-React.js
-
-API Integration
-
-CRUD
+Pandas
 
 Matplotlib
 
-Bootstrap
+Data Analysis
 
-Authentication Concepts
+Data Science — next step
 
-Data Management
-
-Machine Learning Basics
-
-</div>
+Machine Learning — future focus
 
 Tools
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Development tools"/>
-</div>
-
-Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-Smart Farmer Decision System
-
-An intelligent decision-support project designed to help farmers make better agricultural decisions using technology and data.
-
-Focus
-
-Data Analysis · Smart Recommendations · Agriculture Technology · Machine Learning
-
-</td>
-<td width="50%" valign="top">
-
-COVID-19 Data Tracker
-
-A data analysis and visualization project for exploring COVID-19 datasets and presenting meaningful insights.
-
-Stack
-
-Python · Pandas · NumPy · Matplotlib
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-Web Development Projects
-
-Responsive websites and frontend projects developed using modern web technologies.
-
-Stack
-
-HTML · CSS · JavaScript · Bootstrap · React
-
-</td>
-<td width="50%" valign="top">
-
-MERN Applications
-
-Full-stack applications developed while learning and practicing the MERN ecosystem.
-
-Stack
-
-MongoDB · Express.js · React.js · Node.js
-
-</td>
-</tr>
-</table>
-
-Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,python" alt="Current technologies"/>
-
-<br/><br/>
-
-Advanced JavaScript · React.js · Node.js · MERN Stack · Data Science
-
-</div>
+Git
 
 GitHub
 
+VS Code
+
+Jupyter Notebook
+
+🚀 Projects
+
+🌾 Smart Farmer Decision System
+
+An intelligent decision-support project designed to help farmers make better agricultural decisions using technology and data.
+
+Focus: Data Analysis · Smart Recommendations · Agriculture Technology · Machine Learning
+
+📊 COVID-19 Data Tracker
+
+A data analysis and visualization project for exploring COVID-19 datasets and presenting meaningful insights.
+
+Technologies: Python · Pandas · NumPy · Matplotlib
+
+🌐 Web Development Projects
+
+Responsive websites and frontend projects developed while learning modern web technologies.
+
+Technologies: HTML · CSS · JavaScript · Bootstrap · React
+
+⚡ MERN Applications
+
+Full-stack applications developed while learning and practicing the MERN ecosystem.
+
+Technologies: MongoDB · Express.js · React.js · Node.js
+
+🛠️ Tech Stack
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dipankarsau&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="GitHub stats"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,mongodb,mysql,python,c,java,pandas,numpy,git,github,vscode,jupyter" alt="Tech stack"/>
+
+</div>
+
+📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dipankarsau&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="GitHub statistics"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipankarsau&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipankarsau&theme=tokyo-night&hide_border=true&radius=12" width="95%" alt="GitHub activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipankarsau&theme=tokyo-night&hide_border=true&radius=12" width="94%" alt="GitHub activity graph"/>
 
 </div>
 
-2026 Focus
+🎯 Current Focus
 
-Development
+┌───────────────────────────────────────┐
+│  01  Full Stack Development           │
+│  02  MERN Stack                       │
+│  03  Python                            │
+│  04  Build Real-World Projects        │
+│  05  Next → Data Science               │
+│  06  Future → Machine Learning         │
+└───────────────────────────────────────┘
 
-Master the MERN stack
+💡 My Approach
 
-Build full-stack applications
+Learn → Build → Practice → Improve
 
-Build REST APIs
+I believe the best way to learn development is to build real projects, understand the fundamentals, and improve continuously.
 
-Learn authentication
-
-Deploy production projects
-
-Data & Programming
-
-Strengthen Python
-
-Improve SQL
-
-Learn Data Science
-
-Explore Machine Learning
-
-Improve DSA
-
-Mindset
+🤝 Let's Connect
 
 <div align="center">
 
-Learn → Build → Deploy → Improve
-
-Consistent progress. Practical projects. Continuous learning.
-
-</div>
-
-Connect
-
-<div align="center">
-
-If you're interested in web development, full-stack applications, data, or technology, feel free to connect.
+I'm always interested in web development, programming, technology, and learning new things.
 
 <br/>
 
@@ -214,6 +169,6 @@ If you're interested in web development, full-stack applications, data, or techn
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer"/>
+⭐ Thanks for visiting my profile!
 
 </div>
