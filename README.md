@@ -4,7 +4,7 @@
 
 <br><br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/dipankarsau">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
@@ -110,51 +110,49 @@ Fundamentals & Projects
 
 🚀 Featured Projects
 
-Replace the placeholders below with your actual repositories.
+Selected Repositories
 
-<div align="center">
+Repository
 
-Project
+Focus
 
-Description
+Language
 
-Technology
+pothpolio
 
-🌐 Full-Stack Project
+Portfolio / web development
 
-Modern responsive web application
+HTML
 
-MERN
+Python_Journey_With_Dipankar
 
-🐍 Python Project
-
-Python application / automation project
+Python practice & problem solving
 
 Python
 
-📊 Data Science Project
+WEB_DEVLOPMRNT_JOURNY
 
-Data analysis & visualization
+Web-development learning & projects
 
-Python
+HTML
 
-🤖 ML Project
 
-Beginner machine-learning project
 
-Python / ML
-
-</div>
-
-📈 GitHub Statistics
+📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=dipankarsau&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false&theme=tokyonight" height="170" alt="Dipankar Sau GitHub Stats">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=tokyonight" height="165" alt="GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankarsau&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" height="170" alt="Top Languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=dipankarsau&hide_border=true&theme=tokyonight" height="170" alt="GitHub Contribution Streak">
 
 </div>
+
+Live GitHub profile: github.com/dipankarsau
 
 🎯 My Goals
 
@@ -176,7 +174,7 @@ Python / ML
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/dipankarsau">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
