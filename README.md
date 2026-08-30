@@ -1,94 +1,59 @@
 <div align="center">
 
-<img src="./assets/dipankar-logo.svg" width="800" alt="Dipankar Sau Logo">
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MjAiIGhlaWdodD0iMTYwIiB2aWV3Qm94PSIwIDAgNTIwIDE2MCI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjOEI1Q0Y2Ii8+PHN0b3Agb2Zmc2V0PSIuNTUiIHN0b3AtY29sb3I9IiMzQjgyRjYiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwNkI2RDQiLz4KPC9saW5lYXJHcmFkaWVudD4KPC9kZWZzPgo8cmVjdCB3aWR0aD0iNTIwIiBoZWlnaHQ9IjE2MCIgcng9IjI2IiBmaWxsPSIjMEIwRjE5Ii8+CjxjaXJjbGUgY3g9IjgwIiBjeT0iODAiIHI9IjQ5IiBmaWxsPSJ1cmwoI2cpIi8+CjxjaXJjbGUgY3g9IjgwIiBjeT0iODAiIHI9IjU4IiBmaWxsPSJub25lIiBzdHJva2U9IiM2MEE1RkEiIHN0cm9rZS13aWR0aD0iMiIgb3BhY2l0eT0iLjciLz4KPHRleHQgeD0iODAiIHk9Ijk2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSI0MiIgZm9udC13ZWlnaHQ9IjkwMCIgZmlsbD0id2hpdGUiPkRTPC90ZXh0Pgo8dGV4dCB4PSIxNTUiIHk9IjcwIiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNyIgZm9udC13ZWlnaHQ9IjgwMCIgZmlsbD0id2hpdGUiPkRJUEFOS0FSIFNBVTwvdGV4dD4KPHRleHQgeD0iMTU1IiB5PSI5OSIgZm9udC1mYW1pbHk9IkFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiNBNUI0RkMiPkFTUElSSU5HIEZVTEwgU1RBQ0sgREVWRUxPUEVSPC90ZXh0Pgo8L3N2Zz4=" width="520" alt="Dipankar Sau DS Logo">
 
-<br/>
+<br><br>
 
-<img src="./assets/animated-header.svg" width="100%" alt="Animated developer header">
+Dipankar Sau
 
-<br/>
+Aspiring Full Stack Developer
 
-<a href="https://github.com/dipankarsau">
-<img src="https://komarev.com/ghpvc/?username=dipankarsau&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
+Learning MERN Stack + Python
+Next → Data Science & Machine Learning
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=dipankarsau&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
-👋 Hello, I'm Dipankar
+👋 About Me
 
-I'm a BCA student at Adamas University and an aspiring Full Stack Developer.
+I'm Dipankar Sau, a BCA student at Adamas University and an aspiring Full Stack Developer.
 
-Right now, I'm focused on learning Full Stack Development with the MERN stack and building my skills in Python. After strengthening these foundations, my next learning goal is Data Science and Machine Learning.
+Currently, I'm learning Full Stack Development with the MERN stack and Python. After building a strong foundation in these areas, my next goal is to learn Data Science and then explore Machine Learning.
 
-I enjoy building projects, solving programming problems, and learning technologies by turning ideas into practical applications.
+I enjoy building projects, solving programming problems, and learning by creating practical applications.
 
-🧭 My Learning Journey
+🧭 My Learning Path
 
 <div align="center">
 
-FULL STACK DEVELOPMENT
+Full Stack Development
 
 HTML → CSS → JavaScript → React → Node.js → Express.js → MongoDB
 
-<br/>
-
-PYTHON
+Python
 
 Python → NumPy → Pandas → Matplotlib
 
-<br/>
-
-NEXT
+Next
 
 Data Science → Machine Learning
 
 </div>
 
-💻 What I'm Learning
+💻 Skills I'm Building
 
-Full Stack Development
+Frontend: HTML5 · CSS3 · JavaScript · React.js · Bootstrap
 
-HTML5 & CSS3
+Backend: Node.js · Express.js · REST APIs · API Integration
 
-JavaScript
+Database: MongoDB · MySQL · CRUD · Database Design
 
-React.js
+Programming & Data: Python · C · Java · NumPy · Pandas · Matplotlib
 
-Node.js
-
-Express.js
-
-MongoDB
-
-REST APIs
-
-Responsive Web Development
-
-Python & Data
-
-Python
-
-NumPy
-
-Pandas
-
-Matplotlib
-
-Data Analysis
-
-Data Science — next step
-
-Machine Learning — future focus
-
-Tools
-
-Git
-
-GitHub
-
-VS Code
-
-Jupyter Notebook
+Tools: Git · GitHub · VS Code · Jupyter Notebook
 
 🚀 Projects
 
@@ -102,72 +67,63 @@ Focus: Data Analysis · Smart Recommendations · Agriculture Technology · Machi
 
 A data analysis and visualization project for exploring COVID-19 datasets and presenting meaningful insights.
 
-Technologies: Python · Pandas · NumPy · Matplotlib
+Stack: Python · Pandas · NumPy · Matplotlib
 
 🌐 Web Development Projects
 
 Responsive websites and frontend projects developed while learning modern web technologies.
 
-Technologies: HTML · CSS · JavaScript · Bootstrap · React
+Stack: HTML · CSS · JavaScript · Bootstrap · React
 
 ⚡ MERN Applications
 
 Full-stack applications developed while learning and practicing the MERN ecosystem.
 
-Technologies: MongoDB · Express.js · React.js · Node.js
+Stack: MongoDB · Express.js · React.js · Node.js
 
-🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,mongodb,mysql,python,c,java,pandas,numpy,git,github,vscode,jupyter" alt="Tech stack"/>
-
-</div>
-
-📊 GitHub Activity
+📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dipankarsau&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dipankarsau&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="GitHub statistics">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dipankarsau&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dipankarsau&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="GitHub streak">
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipankarsau&theme=tokyo-night&hide_border=true&radius=12" width="94%" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipankarsau&theme=tokyo-night&hide_border=true&radius=12" width="94%" alt="GitHub activity">
 
 </div>
 
 🎯 Current Focus
 
-┌───────────────────────────────────────┐
-│  01  Full Stack Development           │
-│  02  MERN Stack                       │
-│  03  Python                            │
-│  04  Build Real-World Projects        │
-│  05  Next → Data Science               │
-│  06  Future → Machine Learning         │
-└───────────────────────────────────────┘
+Full Stack Development
+        ↓
+     MERN Stack
+        ↓
+      Python
+        ↓
+   Data Science
+        ↓
+ Machine Learning
 
-💡 My Approach
+💡 Mindset
+
+<div align="center">
 
 Learn → Build → Practice → Improve
 
-I believe the best way to learn development is to build real projects, understand the fundamentals, and improve continuously.
+</div>
 
 🤝 Let's Connect
 
 <div align="center">
 
-I'm always interested in web development, programming, technology, and learning new things.
-
-<br/>
-
 <a href="https://github.com/dipankarsau">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<br/><br/>
+<br><br>
 
 ⭐ Thanks for visiting my profile!
 
