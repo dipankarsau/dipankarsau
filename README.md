@@ -1,89 +1,143 @@
 <div align="center">
 
-<img src="./profile-header.gif" width="100%" alt="Dipakash Sau animated developer header">
+<img src="./profile-header.gif" width="100%" alt="Dipakash Sau">
 
-<br>
+<br><br>
 
-<img src="./ds-logo.gif" width="420" alt="Dipakash Sau animated logo">
+<img src="./ds-logo.gif" width="360" alt="DS Logo">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=7C3AED&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;MERN+Stack+Developer;Python+Developer;Data+Science+Learner;Building+Real-World+Projects" alt="Typing">
 
 <br><br>
 
 <a href="https://github.com/dipankarsau">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Learner;Python+Developer;Data+Science+Learner;Building+Real-World+Projects" alt="Typing animation">
 
 </div>
 
 👨‍💻 About Me
 
-Hi, I'm Dipakash Sau, a developer focused on Full-Stack Development, Python, and Data Science.
+I'm Dipakash Sau, a developer focused on Full-Stack Development, Python, and Data Science.
 
-I enjoy turning ideas into practical applications and continuously improving my development skills.
+I enjoy creating clean, responsive applications and learning technologies by building real-world projects.
 
-🚀 Building modern web applications
+🎓 BCA Student
 
-⚛️ Learning the MERN Stack
+💻 Full-Stack Developer
 
-🐍 Developing with Python
+⚛️ MERN Stack Developer / Learner
 
-📊 Exploring Data Science & Machine Learning
+🐍 Python Developer
 
-🧠 Improving problem-solving skills
+📊 Data Science Learner
 
-🛠️ Building real-world projects
+🤖 Exploring Machine Learning
 
-🧰 Tech Stack
+🚀 Building real-world projects
+
+📚 Always learning and improving
+
+🧩 Technologies & Libraries
+
+🌐 Frontend
 
 <div align="center">
 
-Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="55" alt="HTML CSS JavaScript React Tailwind">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend">
+<br><br>
 
-Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend">
-
-Programming
-
-<img src="https://skillicons.dev/icons?i=python,java" alt="Programming">
-
-Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 
 </div>
 
-📚 Currently Learning
+⚙️ Backend & Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="55" alt="Node Express MongoDB">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
+</div>
+
+🐍 Python & Data Science
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
+</div>
+
+☕ Programming & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode,postman" height="55" alt="Java Git GitHub VS Code Postman">
+
+</div>
+
+📚 My Learning Journey
+
+<div align="center">
+
+🚀 Area
+
+📖 Learning
+
+🌐 Full Stack
 
 MERN Stack
- ├── React.js
- ├── Node.js
- ├── Express.js
- └── MongoDB
 
-Python
- ├── Core Python
- ├── OOP
- ├── APIs
- └── Automation
+⚛️ Frontend
 
-Data Science
- ├── NumPy
- ├── Pandas
- ├── Data Visualization
- ├── Statistics
- └── Machine Learning
+React.js
+
+⚙️ Backend
+
+Node.js + Express.js
+
+🗄️ Database
+
+MongoDB
+
+🐍 Programming
+
+Python + Java
+
+📊 Data Science
+
+NumPy + Pandas + Visualization
+
+🤖 AI / ML
+
+Machine Learning Fundamentals
+
+</div>
 
 🚀 Projects
 
@@ -93,15 +147,15 @@ Project
 
 Description
 
-Technology
+Tech
 
-🌐 Portfolio
+🌐 Pothpolio
 
-Personal developer portfolio
+Personal portfolio / web project
 
-HTML / CSS
+HTML
 
-🐍 Python Journey
+🐍 Python Journey With Dipankar
 
 Python learning & practice
 
@@ -109,17 +163,17 @@ Python
 
 💻 Web Development Journey
 
-Web development projects
+Web development learning projects
 
 HTML / CSS / JS
 
 </div>
 
-📊 GitHub Analytics
+📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dipankarsau&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&theme=tokyonight" height="180" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=dipankarsau&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&theme=tokyonight" height="180" alt="GitHub Statistics">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankarsau&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" alt="Top Languages">
 
@@ -129,40 +183,62 @@ HTML / CSS / JS
 
 </div>
 
-🐍 Contribution Graph
+🎯 My Goals
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+2026 — BUILD • LEARN • GROW
 
 </div>
 
-🎯 2026 Goals
+🚀 Become a strong Full-Stack Developer
 
-Become a confident Full-Stack Developer
+⚛️ Master the MERN Stack
 
-Build production-quality MERN applications
+🐍 Become confident with Python
 
-Strengthen Python
+📊 Learn Data Science deeply
 
-Learn Data Science & Machine Learning
+🤖 Build Machine Learning projects
 
-Build more real-world projects
+💼 Build production-quality applications
 
-Contribute to Open Source
+🌍 Contribute to Open Source
 
-Grow my GitHub portfolio
+⭐ Grow a strong GitHub portfolio
 
-🤝 Connect
+🧠 Developer Mindset
 
 <div align="center">
 
-<a href="https://github.com/dipankarsau">GitHub</a> •
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL@example.com">Email</a>
+Learn something new. Build something useful. Improve every day.
 
-<br><br>
+</div>
 
-Thanks for visiting my profile!
+🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/dipankarsau">
+<img src="https://img.shields.io/badge/GitHub-dipankarsau-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer">
+
+⭐ Thanks for visiting my GitHub profile!
 
 </div>
