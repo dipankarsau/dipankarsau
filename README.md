@@ -1,152 +1,152 @@
-<!-- Animated Header -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Anirudh%20Khurana&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
+# 👋 Hi, I'm **DIPANKAR**
 
-<!-- Typing Animation -->
+### 🚀 Aspiring Full Stack Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%92%BB;Aspiring+Software+Engineer+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" />
-</p>
+**Learning. Building. Growing.**
 
-<!-- Developer Logo -->
+[![GitHub](https://img.shields.io/badge/GitHub-Dipankar-181717?style=for-the-badge\&logo=github)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipankar-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" height="60"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Anirudh Khurana</h1>
-
-<h3 align="center">
-Python Developer | Web Developer | Aspiring Software Engineer
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer who enjoys building projects, solving programming problems, and continuously learning new technologies.
+I'm **Dipankar**, a passionate learner and aspiring **Full Stack Developer**.
 
-* 🐍 Currently learning **Python**
-* 🌐 Learning **Web Development**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 💻 Interested in **Backend Development**
-* 🤖 Exploring **AI/ML**
-* 🚀 Building real-world projects
-* 🎯 Working towards becoming a **Software Engineer**
+* 🌱 Currently learning **MERN Stack**
+* 🐍 Learning **Python**
+* 📊 Exploring **Data Science**
+* 💻 Interested in building real-world web applications
+* 🚀 Always learning and improving my coding skills
+* 🎯 Goal: Become a skilled **Full Stack Developer**
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+> **"Code is not just what I write, it's how I bring ideas to life."**
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Skills
 
-### 🐍 Python Journey
+### Frontend
 
-A collection of Python programs, practice problems, and concepts created while learning Python.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-**Tech:** Python
+### Backend
 
-### 🌐 Web Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-Responsive websites and frontend projects built using HTML and CSS.
+### Database
 
-**Tech:** HTML • CSS
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### 🚀 More Projects Coming Soon...
+### Programming Languages
 
-I'm continuously working on new projects and improving my development skills.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
----
+### Tools
 
-## 📚 My Learning Journey
-
-```text
-Python
-   ↓
-Functions & OOP
-   ↓
-Web Development
-   ↓
-Data Structures & Algorithms
-   ↓
-Backend Development
-   ↓
-AI / ML
-```
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
-## 🎯 2026 Goals
+## 🚀 Projects
 
-* 🐍 Master Python
-* 🧩 Improve DSA
-* 🌐 Build advanced web projects
-* ⚙️ Learn Backend Development
-* 🤖 Explore AI/ML
-* 🚀 Build real-world applications
-* 🌎 Contribute to Open Source
-* 💼 Prepare for Software Engineering roles
+### 🌾 Farmer COVID-19 Help System
+
+A web platform created to help farmers during the COVID-19 period with essential information and support.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+---
+
+### 🛒 E-Commerce Website
+
+A full-stack e-commerce web application with modern UI and backend functionality.
+
+**Tech:** `MongoDB` `Express.js` `React.js` `Node.js`
+
+---
+
+### 📝 To-Do List App
+
+A simple and responsive application for managing daily tasks.
+
+**Tech:** `React` `CSS` `JavaScript`
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=dipankar&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankar&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=dipankar&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+
+[![Dipankar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dipankar\&theme=tokyo-night\&hide_border=true)](https://github.com/dipankar)
+
+</div>
+
+---
+
+## 🎓 Education
+
+* 🎓 **B.Tech / Computer Science**
+  Currently pursuing / Completed
+
+* 📚 **Higher Secondary (12th)**
+
+* 📖 **Secondary (10th)**
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="YOUR_PORTFOLIO_URL">
-    🌐 Portfolio
-  </a>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
+
+</div>
 
 ---
 
-<h3 align="center">
-  ⭐ Thanks for visiting my profile!
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=100&section=footer"/>
-</p>
+### 💙 Let's build something amazing together! 🚀
+
+⭐ **Thanks for visiting my profile!**
+
+**Always Learning. Always Building.**
+
+Made with ❤️ by **Dipankar**
+
+</div>
