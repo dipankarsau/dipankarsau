@@ -6,7 +6,7 @@
 
 **Learning. Building. Growing.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Dipankar-181717?style=for-the-badge\&logo=github)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-dipankarsau-181717?style=for-the-badge\&logo=github)](https://github.com/dipankarsau)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipankar-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/)
 
 </div>
@@ -30,30 +30,30 @@ I'm **Dipankar**, a passionate learner and aspiring **Full Stack Developer**.
 
 ## 🛠️ Skills
 
-### Frontend
+### 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-### Backend
+### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-### Database
+### 🗄️ Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### Programming Languages
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
-### Tools
+### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -68,7 +68,7 @@ I'm **Dipankar**, a passionate learner and aspiring **Full Stack Developer**.
 
 A web platform created to help farmers during the COVID-19 period with essential information and support.
 
-**Tech:** `HTML` `CSS` `JavaScript`
+**Technologies:** `HTML` `CSS` `JavaScript`
 
 ---
 
@@ -76,7 +76,7 @@ A web platform created to help farmers during the COVID-19 period with essential
 
 A full-stack e-commerce web application with modern UI and backend functionality.
 
-**Tech:** `MongoDB` `Express.js` `React.js` `Node.js`
+**Technologies:** `MongoDB` `Express.js` `React.js` `Node.js`
 
 ---
 
@@ -84,7 +84,7 @@ A full-stack e-commerce web application with modern UI and backend functionality
 
 A simple and responsive application for managing daily tasks.
 
-**Tech:** `React` `CSS` `JavaScript`
+**Technologies:** `React` `CSS` `JavaScript`
 
 ---
 
@@ -92,15 +92,15 @@ A simple and responsive application for managing daily tasks.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dipankar&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=dipankarsau&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankar&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankarsau&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=dipankar&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=dipankarsau&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -110,7 +110,7 @@ A simple and responsive application for managing daily tasks.
 
 <div align="center">
 
-[![Dipankar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dipankar\&theme=tokyo-night\&hide_border=true)](https://github.com/dipankar)
+[![Dipankar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dipankarsau\&theme=tokyo-night\&hide_border=true)](https://github.com/dipankarsau)
 
 </div>
 
@@ -119,10 +119,7 @@ A simple and responsive application for managing daily tasks.
 ## 🎓 Education
 
 * 🎓 **B.Tech / Computer Science**
-  Currently pursuing / Completed
-
 * 📚 **Higher Secondary (12th)**
-
 * 📖 **Secondary (10th)**
 
 ---
@@ -131,9 +128,9 @@ A simple and responsive application for managing daily tasks.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-dipankarsau-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dipankarsau)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
 
 </div>
 
